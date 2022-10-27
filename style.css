@@ -1,0 +1,51 @@
+.bg-img{
+  background-image: url(https://png.pngtree.com/thumb_back/fw800/back_our/20190625/ourmid/pngtree-simple-atmosphere-geometry-business-ppt-production-background-poster-image_259426.jpg);
+  height: 60vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100vw;
+}
+
+.bg-img2{
+  background-image: url(https://burst.shopifycdn.com/photos/dj-crowd.jpg?width=1200&format=pjpg&exif=1&iptc=1);
+  min-height: 365px;
+}
+
+.img-radius{
+border-radius: 50em;
+height: 150px;
+width: 150px;
+justify-content: center;
+}
+
+.img-logo{
+  height: 50px;
+  width: 50px;
+  border-radius: 50em;
+  box-shadow: 5px;
+  
+}
+
+
+
+.textMiles {
+  width: 65%;
+
+}
+
+.col-flex{
+flex-direction: column;
+
+}
+
+.img-fix{
+-o-object-fit: fill;
+max-height: 30vh;
+flex-wrap: wrap;
+align-items: center;
+}
+
+
+.bg-grey{
+  background-color: rgb(171, 167, 167);
+}
